@@ -4,14 +4,12 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import TodoList from "./TodoList"
+import Main from "./component/Main";
 
 ReactDOM.render(
   <div>
-    <TodoList/>
+    <Main/>
   </div>,
-  // <React.StrictMode>
-  //   <App />
-  // </React.StrictMode>,
   document.getElementById('root')
 );
 
