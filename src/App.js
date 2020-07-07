@@ -1,7 +1,8 @@
-import React from 'react';
+import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+// Reference tutorial: https://www.kirupa.com/react/simple_todo_app_react.htm
 function App() {
   return (
     <div className="App">
