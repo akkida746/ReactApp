@@ -1,1 +1,1 @@
-This is react sample add having all core component implementations.
+This is a react sample app where i have implemented all core components for learing perspective.
